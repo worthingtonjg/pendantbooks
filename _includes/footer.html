@@ -38,7 +38,7 @@
         {% assign sortedFooter = site.pages | sort: 'sort' %}
         {%- for page in sortedFooter -%}
         {%- if page.title -%}
-            <p><a href="{{page.url}}">{{page.title}}</a></p>
+            <p><a href="{{site.baseurl}}{{page.url}}">{{page.title}}</a></p>
         {%- endif -%}
         {%- endfor -%}      
       </div>

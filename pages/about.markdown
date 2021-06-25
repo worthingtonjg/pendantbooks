@@ -18,7 +18,7 @@ James Batchelor was born in San Jose California, the ninth of ten children. He w
 
 A bit of a nomad, James has lived all over Japan and the United States. He currently resides with his wife, Elizabeth, and their six children near Salt Lake City, Utah.
 
-<img src="/images/james_batchelor.jpg" class="img-fluid">
+<img src="{{site.baseurl}}/images/james_batchelor.jpg" class="img-fluid">
 
 ## FAQ
 

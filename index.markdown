@@ -10,10 +10,10 @@ sort: 0
             <div class="col" data-aos="fade-right">
                 <h2>{{post.title}}</h2>
                 {{ post.excerpt }}
-                <a href="{{post.url}}">Shop</a>
+                <a href="{{site.baseurl}}{{post.url}}">Shop</a>
             </div>
             <div class="col" data-aos="fade-left">
-                <img src="{{post.image}}" class="img-fluid">
+                <img src="{{site.baseurl}}{{post.image}}" class="img-fluid">
             </div>
         </div>
     </div>

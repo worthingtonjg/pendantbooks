@@ -15,7 +15,7 @@
     <!-- Font awesome -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <!-- Our Custom CSS -->
-    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/css/style.css">
 
 </head>
 <body>
@@ -30,15 +30,15 @@
                     {% assign sorted = site.pages | sort: 'sort' %}
                     {%- for page in sorted -%}
                         <li class="nav-item">
-                            <a class="nav-link" href="{{page.url}}">{{page.title}}</a>
+                            <a class="nav-link" href="{{site.baseurl}}{{page.url}}">{{page.title}}</a>
                         </li>
                     {%- endfor -%}                    
               </div>
             </div>
           </nav>
 
-        <div>
-            <img src="/images/pendant.png" style="width: 100%;">
+        <div data-aos="fade-right">
+            <img src="{{site.baseurl}}/images/pendant.png" style="width: 100%;">
         </div>
 
         <div class="content">
