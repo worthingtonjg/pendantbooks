@@ -1,8 +1,11 @@
 ---
 layout: book
 title: The Knights Dawning
-sort: 2
+bookSort: 4
 image: /images/knightsdawning.png
+sectionBanner1: Get
+sectionBanner2: Book 1
+blackBanner: See where it all began with the first book in the crusades series.
 ---
 13th century England: The nobility is aligning against King John in a struggle for power. The kingdom is embroiled in war and bankrupt, and the Crusades are rampaging through the Middle East. The Dawnings are a once-powerful family of English knights who are facing the bleak prospects of their declining power and imminent destruction at the hands of enemies that surround them both at home and abroad...
 

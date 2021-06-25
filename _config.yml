@@ -35,7 +35,6 @@ spotlight: The Darkest Knight
 collections:
   books:
     output: true
-    sort_by: sort
 
 excerpt_separator: <!--more-->
 

@@ -1,17 +1,20 @@
 {% include header.html %}
 
 <!-- Start Content -->
-<h1>{{page.title}}</h1>
-<table>
-    <div class="row">
-        <div class="col" data-aos="fade-right">
-            {{content}}
-        </div>
-        <div class="col" data-aos="fade-left" style="margin-left: 15px;">
-                <img src="{{site.baseurl}}{{page.image}}" class="img-fluid">
-        </div>
+<div class="bookTitle">{{page.title}}</div>
+{% if page.banner %}
+<div class="banner">
+    {{page.banner}}
+</div>
+{% endif %}
+<div class="row">
+    <div class="col" data-aos="fade-right">
+        {{content}}
     </div>
-</table>
+    <div class="col" data-aos="fade-left" style="margin-left: 15px;">
+            <img src="{{site.baseurl}}{{page.image}}" class="img-fluid">
+    </div>
+</div>
 
 <!-- End Content -->
 

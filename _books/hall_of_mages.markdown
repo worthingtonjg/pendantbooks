@@ -1,8 +1,10 @@
 ---
 layout: book
 title: Hall of Mages
-sort: 4
+bookSort: 5
 image: /images/hom_cover.jpg
+sectionBanner1: Coming 
+sectionBanner2: Soon
 ---
 The Northern Kingdoms have lived in relative peace since the end of The Exile, a war that was fought between the races. The humans banished the Shaldean and Islanii races to First World, and attempted to hunt the shape-shifting Danshii to extinction.
 <!--more-->

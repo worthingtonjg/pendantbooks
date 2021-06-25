@@ -1,8 +1,10 @@
 ---
 layout: book
 title: The Darkest Knight 
-sort: 1
+bookSort: 1
 image: /images/darkestnight.png
+redBanner: The third book in James Batchelor's Crusades Series has finally arrived!
+sectionBanner: The Latest
 ---
 The long awaited to follow up to The Knights Mourning is finally here!
 
