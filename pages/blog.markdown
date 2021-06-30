@@ -8,6 +8,7 @@ sort: 4
 
 ## Blog
 
+<div>
 {%- for post in site.posts -%}
 
   {{post.title}}
@@ -17,3 +18,4 @@ sort: 4
   <a href="{{post.url}}">More</a>
 
 {%- endfor -%}
+</div>
