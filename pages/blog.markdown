@@ -15,7 +15,7 @@ sort: 4
 
   {{post.excerpt}}
 
-  <a href="{{post.url}}">More</a>
+  <a href="{{site.baseurl}}{{post.url}}">More</a>
 
 {%- endfor -%}
 </div>
