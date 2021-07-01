@@ -54,10 +54,10 @@ sort: 0
             </div>
         {% else %}
             <div class="row">
-                <div class="col" data-aos="fade-left">
+                <div class="col" data-aos="fade-right">
                     <img src="{{site.baseurl}}{{post.image}}" class="img-fluid">
                 </div>
-                <div class="col" data-aos="fade-right">
+                <div class="col" data-aos="fade-left">
                     <div class="bookTitle">{{post.title}}</div>
                     {{ post.excerpt }}
                     {% if post.hideShop == true %}
