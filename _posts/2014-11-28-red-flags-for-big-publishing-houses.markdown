@@ -12,7 +12,7 @@ This is important information for writers. Even if you are not interested in sol
 
 Another factor of book length is psychological. Editors and agents are no different than you or me as a reader. If they have two manuscripts sitting in front of them from two unknown authors, one is short and one is long, they are naturally going to gravitate toward the short one first. It is less of a gamble to invest their time in a shorter book. As Brandon put it, “if you can tell the same story in 80,000 words as you do in 140,000, then do it.”
 
-3. Switching points of view too fast or too frequently: This is jarring for a reader. As one beta reader put it in a review, “each time it changes perspective, it is like putting on the brakes for just a minute until I come up to speed with the new scene.”
+**3. Switching points of view too fast or too frequently:** This is jarring for a reader. As one beta reader put it in a review, “each time it changes perspective, it is like putting on the brakes for just a minute until I come up to speed with the new scene.”
 
 That said, however, let me share with you a contradictory story from my own experience which made a big impression on me. Years ago, I was traveling across the country for the umpteenth time. I went to the library to find some audiobooks for the trip and ended up with, among other things, a Margaret Truman book. I knew nothing about Ms. Truman except that she has a million books out and was the daughter of former President, Harry S. Truman.
 
@@ -20,11 +20,11 @@ The tracks on the Truman CD’s were very short, only two or three minutes each.
 
 So for me, the rapid changing of perspective was not a negative, but I do agree with the publishers that this demands more of a reader, and a new author may not have the credibility with the readers to earn that sort of effort.
 
-4. Cliffhanger endings: It makes sense that a publisher would not want a book with a cliffhanger ending when they are not interested in purchasing series, but cliffhanger endings can also be frustrating for a reader who then has to wait a year or two for the next book to come out.
+**4. Cliffhanger endings:** It makes sense that a publisher would not want a book with a cliffhanger ending when they are not interested in purchasing series, but cliffhanger endings can also be frustrating for a reader who then has to wait a year or two for the next book to come out.
 
 On that note, I cannot tell you how many people have told me over the years that they do not begin a series if it is not already complete. In truth, I tend to fall into this camp as well, so I definitely understand the sentiment.
 
 Now, fans of my books will notice that I violate most of the above items, which brings us to the last and most important principle:
 
-5. Be true to your work: If you can incorporate the above items without compromising the integrity of the work, it probably makes sense to do so, but if you can’t, so be it. It is what it is. It is far better to put out a book or submit a manuscript that you truly believe in, rather than one you feel has been compromised. You are the one who has to live with that work. You are the one who has to speak about, talk to fans about it at conventions, and endure potentially scathing reviews from a multitude of unknown people because of it. It can be a brutal, exhausting process. Make sure your book is worth it!
+**5. Be true to your work:** If you can incorporate the above items without compromising the integrity of the work, it probably makes sense to do so, but if you can’t, so be it. It is what it is. It is far better to put out a book or submit a manuscript that you truly believe in, rather than one you feel has been compromised. You are the one who has to live with that work. You are the one who has to speak about, talk to fans about it at conventions, and endure potentially scathing reviews from a multitude of unknown people because of it. It can be a brutal, exhausting process. Make sure your book is worth it!
 got 
