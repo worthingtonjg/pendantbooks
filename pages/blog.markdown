@@ -8,14 +8,14 @@ sort: 4
 
 ## Blog
 
-<div>
 {%- for post in site.posts -%}
+  <div>
 
-  {{post.title}}
+  <h1>{{post.title}}</h1>
 
   {{post.excerpt}}
 
   <a href="{{site.baseurl}}{{post.url}}">More</a>
+  </div>
 
 {%- endfor -%}
-</div>
