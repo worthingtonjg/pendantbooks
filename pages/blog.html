@@ -6,16 +6,17 @@ sort: 4
 ---
 
 
-## Blog
+<h1>Blog</h1>>
 
 {%- for post in site.posts -%}
   <div>
 
-  <h1>{{post.title}}</h1>
+  <h2>{{post.title}}</h2>
 
   {{post.excerpt}}
 
   <a href="{{site.baseurl}}{{post.url}}">More</a>
   </div>
+  <hr>
 
 {%- endfor -%}
