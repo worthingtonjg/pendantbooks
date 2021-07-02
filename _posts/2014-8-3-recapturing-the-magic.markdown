@@ -1,7 +1,11 @@
+---
+layout: post
+title:  Red Flags for Big Publishing Houses
+---
 As I announced some months ago via twitter and facebook, I have finished the rough draft of Hall of Mages. Now some of you are starting to notice that you have not heard any updates since then. That is mostly because there are no updates, but let me explain why:
 
 When Hall of Mages fell into my lap (if you are unfamiliar with how that came to be you can read about it here), the rough draft which I received was not complete and needed a lot of work, but Jared, my brother and the original author of Hall, was very good at capturing the magic of the world which is what makes fantasy so much fun to read. He had a vivid imagination and it came through in his work.
-
+<---more!>
 So, I took what he had begun and added back stories to characters, a more thorough history of the world and magic system, and I increased the scope of the drama exponentially, but the rough draft that came out the other side had lost a lot of that magic. The wonder and excitement was gone, and I could not figure out why.
 
 In an effort to recapture what I had lost, I went back and reread some of the fantasy that had so enthralled me in my youth, hoping to get some sense of what that missing element was in my draft. I reread Pawn of Prophecy by David Eddings, The Chronicles of Amber by Roger Zelazny, A Spell for Chameleon by Piers Anthony, Dragons of Autumn Twilight by Weis and Hickman, and I even read Mistborn by Brandon Sanderson (While Mistborn is not a classic from my youth, it is a very well regarded fantasy novel of one of my contemporaries.)
