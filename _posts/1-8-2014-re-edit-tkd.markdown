@@ -11,7 +11,7 @@ After much deliberation, my publisher, my editor, and I decided that we needed t
 4. Do I have to reread the new version of TKD to understand what is happening in the rest of the books?
 5. If I have already bought an old version do I have to buy the new version again?
 6. How do I know if I have the latest version?
-7. Will a new print version be released?
+7. <a name="#Q7">Will a new print version be released?</a>
 <!--more-->
 [1. Q: Why did you re-edit The Knights Dawning?](#Q1) 
 A: The Knights Dawning was my first book. At the time it was released I was new to the editing/publishing world and unsure of myself. Even as my manuscript was going to press I was not comfortable with the product. I could not identify anything specifically, but I just felt that there had been too many changes and too many revisions over the three years it had taken me to get it to this point, and no one person—including me—truly had a handle on it. But I eased my reservations with the thought, maybe this sort of doubt comes with the territory. So TKD went to print and out into the world.
@@ -43,7 +43,7 @@ A: No. Some e-readers automatically update any purchased books when new versions
 6. Q: How Do I know if I have the correct, updated version?
 A: On the verso page (the page just after the title page) it says “E-reader version 3.0.” any number below this number means you have an outdated version.
 
-7. Q: Will a new print version be released?
+7. [Q: Will a new print version be released?](#Q7)
 A: Yes. With this step behind us, a matching print version of TKM and TKD will be available within the next few months.
 
 For any additional questions, please email info@pendantbooks.com and your questions will be answered as quickly as possible.
