@@ -15,12 +15,12 @@ The first book in the Crusades series, The Knights Dawning, sets the stage for a
 
 [Kindle: $6.99](https://www.amazon.com/Knights-Dawning-Crusades-Book-ebook/dp/B0066CBG9A/ref=sr_1_1?dchild=1&keywords=the+knights+dawning+by+James+batelor&qid=1625264959&sr=8-1-spell "Buy from Amazon")
 
+[Paperback: $14.99](https://www.amazon.com/Knights-Dawning-First-Book-Crusades/dp/0984004432/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1625264959&sr=8-1-spell "Buy from Amazon")
+
 Nook: Temprorarily Unavailable
 
 Apple Books: Temprorarily Unavailable
 
 Google Books: Temprorarily Unavailable
-
-[Paperback: $14.99](https://www.amazon.com/Knights-Dawning-First-Book-Crusades/dp/0984004432/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1625264959&sr=8-1-spell "Buy from Amazon")
 
 Audio Version Coming soon!
