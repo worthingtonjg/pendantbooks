@@ -14,10 +14,10 @@ When it was clear that defeat was inevitable, Richard ordered the remnants of th
 
 Now, sealed in the castle with only a handful of trained soldiers, those who are left struggle to mount a defense against a superior army and an unseen enemy within the castle working against them at every step.
 
-[Kindle: $9.99](https://www.amazon.com/Darkest-Knight-Crusades-Book-ebook/dp/B091HXQWCN/ref=sr_1_1?dchild=1&keywords=the+darkest+knight+by+james+batchelor&qid=1625255949&sr=8-1)
+[Kindle: $9.99](https://www.amazon.com/Darkest-Knight-Crusades-Book-ebook/dp/B091HXQWCN/ref=sr_1_1?dchild=1&keywords=the+darkest+knight+by+james+batchelor&qid=1625255949&sr=8-1 "Buy from Amazon")
 
-[Nook: $9:99](https://www.barnesandnoble.com/w/the-darkest-knight-james-batchelor/1139149449?ean=2940162222514)
+[Nook: $9:99](https://www.barnesandnoble.com/w/the-darkest-knight-james-batchelor/1139149449?ean=2940162222514 "Buy from Barnes and Noble")
 
-[Apple Books: $9:99](https://books.apple.com/us/book/the-darkest-knight/id1561071692)
+[Apple Books: $9:99](https://books.apple.com/us/book/the-darkest-knight/id1561071692 "Buy from Apple")
 
-[Google Books: $9.99](https://play.google.com/store/books/details/James_Batchelor_The_Darkest_Knight?id=qbYmEAAAQBAJ)
+[Google Books: $9.99](https://play.google.com/store/books/details/James_Batchelor_The_Darkest_Knight?id=qbYmEAAAQBAJ "Buy from Google Books")
