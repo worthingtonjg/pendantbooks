@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Red Flags for Big Publishing Houses
+title:  Recapturing the Magic
 ---
 As I announced some months ago via twitter and facebook, I have finished the rough draft of Hall of Mages. Now some of you are starting to notice that you have not heard any updates since then. That is mostly because there are no updates, but let me explain why:
 
