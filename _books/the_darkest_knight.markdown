@@ -21,3 +21,6 @@ Now, sealed in the castle with only a handful of trained soldiers, those who are
 [Apple Books: $9:99](https://books.apple.com/us/book/the-darkest-knight/id1561071692 "Buy from Apple")
 
 [Google Books: $9.99](https://play.google.com/store/books/details/James_Batchelor_The_Darkest_Knight?id=qbYmEAAAQBAJ "Buy from Google Books")
+
+[Paperback: $13.99](https://www.amazon.com/Darkest-Knight-James-Batchelor/dp/0984004459/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr= "Buy from Amazon")
+
