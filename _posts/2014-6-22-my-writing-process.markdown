@@ -1,8 +1,13 @@
+---
+layout: post
+title:  #MyWritingProcess
+---
 I am posting today as a participant in an author’s blog-hop, wherein a bunch of different authors answer four of the most commonly asked questions that we authors hear. My thanks to Dave Butler for involving me in this. Dave writes speculative fiction. I just read one of Dave’s books, Crecheling, this last weekend and had a hard time putting it down, so take a look, or find out more about Dave on his blog here, or on twitter @davidjohnbutler. Now, onto the bloghop’s standard introductory paragraph:
 
 We writers share these things informally during workshops and at conferences, but not so much through our open-forum blogs. With the hashtag #MyWritingProcess, you can learn how writers all over the world answer the same four questions:
 
 Q: What am I working on?
+<!--more-->
 A: Currently, I have two projects in the works: The first is the third book in my Crusades trilogy. It is entitled The Knights Reborn and takes place in 13th century England against the backdrop of the Crusades, the Magna Carta, and the Baron’s war. It centers around a once nearly invincible family of English Knights, The Dawnings, who through their desire for power, and to further their own individual agendas, have managed to sow the seeds of their own destruction on every side. In this third book, their enemies are all combining to wipe them out once and for all, and each brother must choose between his own selfish desires or the safety of the realm.
 
 The other book I am working on is a fantasy book called Hall of Mages. My brother wrote the rough draft of this book before he passed away, and I have been working to bring it out for the last couple of years. It is a completely unique world with totally original races and an entirely new magic system. It’s going to be fantastic.
