@@ -14,3 +14,4 @@ When it was clear that defeat was inevitable, Richard ordered the remnants of th
 
 Now, sealed in the castle with only a handful of trained soldiers, those who are left struggle to mount a defense against a superior army and an unseen enemy within the castle working against them at every step.
 
+[Kindle: $9.99](https://www.amazon.com/Darkest-Knight-Crusades-Book-ebook/dp/B091HXQWCN/ref=sr_1_1?dchild=1&keywords=the+darkest+knight+by+james+batchelor&qid=1625255949&sr=8-1)
