@@ -1,7 +1,15 @@
 {% include header.html %}
 
 <!-- Start Content -->
-<div class="bookTitle">{{page.title}}</div>
+<div class="bookTitle">
+    {{page.title}}
+    {% if page.subtitle %}
+    <br/><i>{{page.subtitle}}</i>
+    {% endif %}
+    {%if page.author%}
+    <br/><i>by {{page.author}}</i>
+    {%endif%}
+</div>
 {% if page.banner %}
 <div class="banner">
     {{page.banner}}

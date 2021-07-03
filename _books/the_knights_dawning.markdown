@@ -1,6 +1,8 @@
 ---
 layout: book
 title: The Knights Dawning
+subtitle: The Crusades Series - Book 1
+author: James Batchelor
 bookSort: 4
 image: /images/knightsdawning.png
 sectionBanner1: Get
@@ -13,9 +15,9 @@ blackBanner: See where it all began with the first book in the crusades series.
 
 The first book in the Crusades series, The Knights Dawning, sets the stage for a titanic struggle for survival that could consume a family, a people, and a kingdom. The epic battles and action-packed scenes are coupled with deep characters and complex relationships that give the story a depth beyond ordinary adventure novels. Join the Dawnings as they feud over power, love, jealousies, and old grudges that threaten to destroy the family from within at the moment they most need to stand united.
 
-[Kindle: $6.99](https://www.amazon.com/Knights-Dawning-Crusades-Book-ebook/dp/B0066CBG9A/ref=sr_1_1?dchild=1&keywords=the+knights+dawning+by+James+batelor&qid=1625264959&sr=8-1-spell "Buy from Amazon")
+[Kindle: $6.99](https://www.amazon.com/Knights-Dawning-Crusades-Book-ebook/dp/B0066CBG9A/ref=sr_1_1?dchild=1&keywords=the+knights+dawning+by+James+batelor&qid=1625264959&sr=8-1-spell "Buy from Amazon"){:target="_blank"}
 
-[Paperback: $14.99](https://www.amazon.com/Knights-Dawning-First-Book-Crusades/dp/0984004432/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1625264959&sr=8-1-spell "Buy from Amazon")
+[Paperback: $14.99](https://www.amazon.com/Knights-Dawning-First-Book-Crusades/dp/0984004432/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1625264959&sr=8-1-spell "Buy from Amazon"){:target="_blank"}
 
 Nook: Temprorarily Unavailable
 

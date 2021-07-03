@@ -1,6 +1,8 @@
 ---
 layout: book
-title: The Darkest Knight (The Crusades Series Book 3)
+title: The Darkest Knight 
+subtitle: The Crusades Series - Book 3
+author: James Batchelor
 bookSort: 1
 image: /images/darkestnight.png
 redBanner: The third book in James Batchelor's Crusades Series has finally arrived!
@@ -13,6 +15,8 @@ In book two of the Crusades Series, The Knights Mourning, The Dawnings were betr
 When it was clear that defeat was inevitable, Richard ordered the remnants of the Dawning chivalry back to fortify Dawning Castle in a last desperate attempt to preserve the barony, while he and William attempted to delay the enemy.
 
 Now, sealed in the castle with only a handful of trained soldiers, those who are left struggle to mount a defense against a superior army and an unseen enemy within the castle working against them at every step.
+
+<!--more-->
 
 [Kindle: $9.99](https://www.amazon.com/Darkest-Knight-Crusades-Book-ebook/dp/B091HXQWCN/ref=sr_1_1?dchild=1&keywords=the+darkest+knight+by+james+batchelor&qid=1625255949&sr=8-1 "Buy from Amazon"){:target="_blank"}
 
