@@ -8,7 +8,7 @@ image: /images/darkestnight.png
 redBanner: The third book in James Batchelor's Crusades Series has finally arrived!
 sectionBanner: The Latest
 ---
-The long awaited to follow up to The Knights Mourning is finally here!
+The long awaited to follow up to _The Knights Mourning_ is finally here!
 
 In book two of the Crusades Series, _The Knights Mourning_, The Dawnings were betrayed by one of their own. Ambushed on their own lands, the army was decimated by the combined might of a Saracen-Braddock force.
 
