@@ -8,11 +8,21 @@ sort: 1
 
 ## About
 
-Welcome to Pendant Publishing. Pendant is the publisher behind the books of James Batchelor. In the coming months we look forward to bringing you a number of exciting titles from a variety of different genres. Please see our FAQ below for further details.
+Welcome to Pendant Publishing. Pendant is the publisher behind the books of James Batchelor. In the coming months we look forward to bringing you a number of exciting titles from a variety of different genres. Please see our FAQ below for ansewers to commonly asked questions.
 
 ## FAQ
 
-Q: Have their been changes made to The Knights Dawning since it was released?
+Q: How do I submit an unpublished manuscript to Pendant?
+
+A: Unfortunately, Pendant is not currently accepting unsolicited manuscripts. Any unsolicited items sent or emailed to Pendant will be returned or discarded unopened.
+
+Q: What is the best way to contact Pendant?
+
+A: For questions or comments about a product, please email support@pendantbooks.com. For all other inquiries please email info@pendantbooks.com
+
+Q: I am part of a beta-reading group and wish to leave feedback for a book.
+
+A: If you are part of a reading group, you should have recieved an email with a link to the feedback site. If you have not received that email, please check your junk mail or spam folder for an email from Tom Whitefield. If you have checked these folders and are still unable to locate the email or you have deleted it, please add Tom Whitefield and pendantbooks.com to your safe senders list. Then email us at support@pendantbooks.com. 
 
 A: Yes. Please see James Batchelor's blog post regarding this here.
 
