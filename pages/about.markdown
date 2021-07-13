@@ -12,11 +12,11 @@ Welcome to Pendant Publishing. Pendant is the publisher behind the books of Jame
 
 ## FAQ
 
-Q: How do I submit an unpublished manuscript to Pendant?
+##Q: How do I submit an unpublished manuscript to Pendant?##
 
 A: Unfortunately, Pendant is not currently accepting unsolicited manuscripts. Any unsolicited items sent or emailed to Pendant will be returned or discarded unopened.
 
-Q: What is the best way to contact Pendant?
+##Q: What is the best way to contact Pendant?##
 
 A: For questions or comments about a product, please email support@pendantbooks.com. For all other inquiries please email info@pendantbooks.com
 
