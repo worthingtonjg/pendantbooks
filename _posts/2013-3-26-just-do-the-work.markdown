@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Why did I (re)edit The Knights Dawning?
+title:  Just Do The Work!
 ---
 Just do the work! There is no other way to say it. Forget all the opposition. Forget all the millions of reasons not to. Forget your exhaustion, your discouragement, the dread of another day spent doing something you hate. Turn off the TV, disconnect from the internet, silence your phone and get to it, and do it now!
 <!--more-->
