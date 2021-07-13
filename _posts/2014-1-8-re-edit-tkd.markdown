@@ -15,7 +15,7 @@ After much deliberation, my publisher, my editor, and I decided that we needed t
 
 <!--more-->
 
-##<a name="q1">Q:Why did you re-edit The Knights Dawning?</a>##
+<a name="q1">##Q:Why did you re-edit The Knights Dawning?##</a>
 
 A: The Knights Dawning was my first book. At the time it was released I was new to the editing/publishing world and unsure of myself. Even as my manuscript was going to press I was not comfortable with the product. I could not identify anything specifically, but I just felt that there had been too many changes and too many revisions over the three years it had taken me to get it to this point, and no one person—including me—truly had a handle on it. But I eased my reservations with the thought, maybe this sort of doubt comes with the territory. So TKD went to print and out into the world.
 
