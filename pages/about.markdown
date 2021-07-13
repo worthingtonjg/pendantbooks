@@ -18,7 +18,7 @@ A: Unfortunately, Pendant is not currently accepting unsolicited manuscripts. An
 
 **Q: What is the best way to contact Pendant?**
 
-A: For questions or comments about a product, please email <a href="mailto:support@pendantbooks.com"support@pendantbooks.com</a>. For all other inquiries please email info@pendantbooks.com
+A: For questions or comments about a product, please email <a href="mailto:support@pendantbooks.com">support@pendantbooks.com</a>. For all other inquiries please email <a href="mailto:info@pendantbooks.com">info@pendantbooks.com</a>.
 
 **Q: I am part of a beta-reading group and wish to leave feedback for a book.**
 
