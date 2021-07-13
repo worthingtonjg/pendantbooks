@@ -15,7 +15,9 @@ After much deliberation, my publisher, my editor, and I decided that we needed t
 
 <!--more-->
 
-<a name="q1">A</a>: The Knights Dawning was my first book. At the time it was released I was new to the editing/publishing world and unsure of myself. Even as my manuscript was going to press I was not comfortable with the product. I could not identify anything specifically, but I just felt that there had been too many changes and too many revisions over the three years it had taken me to get it to this point, and no one person—including me—truly had a handle on it. But I eased my reservations with the thought, maybe this sort of doubt comes with the territory. So TKD went to print and out into the world.
+<a name="q1">Why did you re-edit The Knights Dawning?</a>
+
+A: The Knights Dawning was my first book. At the time it was released I was new to the editing/publishing world and unsure of myself. Even as my manuscript was going to press I was not comfortable with the product. I could not identify anything specifically, but I just felt that there had been too many changes and too many revisions over the three years it had taken me to get it to this point, and no one person—including me—truly had a handle on it. But I eased my reservations with the thought, maybe this sort of doubt comes with the territory. So TKD went to print and out into the world.
 
 Well, it was not long before it came to my attention that there were problems with the editing. Every time I turned around, friends and family were pointing out new flaws. Some were minor proofreading issues, and others were more serious editing problems. For a while I tried to dismiss this with a shrug and a quip like “that’s what first editions are all about,” but then the reviews started to come in. Most were fairly positive, but even those people that had really liked the book made some mention of the editing issues, and a few of the reviewers were entirely turned off because of it.
 
@@ -39,6 +41,7 @@ Though the outcomes and relevant plot points of these battles remain unchanged, 
 
 <a name="q6">A</a>: On the verso page (the page just after the title page) it says “E-reader version 3.0.” any number below this number means you have an outdated version.
 
-<a name="q7">A</a>: Yes. With this step behind us, a matching print version of TKM and TKD will be available within the next few months.
+<a name="q7">Will a new print version be released?</a>
+A: Yes. With this step behind us, a matching print version of TKM and TKD will be available within the next few months.
 
 or any additional questions, please email info@pendantbooks.com and your questions will be answered as quickly as possible.
