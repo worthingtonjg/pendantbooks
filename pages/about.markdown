@@ -30,4 +30,3 @@ Q: Why is The Knights Dawning only available on the Nook and other electronic fo
 
 A: Amazon is the largest seller of electronic books. The Knights Dawning sells more e-books through them than all other markets combined. Unfortunately, Amazon only allows books to be part of their Amazon Prime program (the program that allows books to be offered on promotion or borrowed by Amazon Prime members) if the books are exclusive to Amazon. As a result, it is necessary to remove the books from other markets during these periods in order to take advantage of these promotional opportunities. We recognize that this can be frustrating for owners of other devices and regret any inconvenience it may cause.
 
-Please Note: Our FAQ is updated routinely to keep the information current.
