@@ -7,6 +7,8 @@ sort: 5
 
 ## Jared Batchelor
 
+<img src="{{site.baseurl}}/images/jared_batchelor.jpg" class="img-fluid">
+
 (Contributed by James Batchelor)
 
 Jared is my brother. He is three years my senior and the only one in my family that shares my passion for writing. He is the one sibling with whom I could commiserate over the frustration, discouragement and eventual triumph of a project. The others are always very good to listen, but Jared truly understood. I never realized quite how lucky I was to have that until it was gone. He died a few years ago.
