@@ -7,11 +7,11 @@ sort: 5
 
 ## Jared Batchelor
 
-<img src="{{site.baseurl}}/images/jared_batchelor.jpg" class="img-fluid">
-
 (Contributed by James Batchelor)
 
 Jared is my brother. He is three years my senior and the only one in my family that shares my passion for writing. He is the one sibling with whom I could commiserate over the frustration, discouragement and eventual triumph of a project. There are others, of course, who are always willing to listen to my complaints and frustrations, but Jared truly understood. I never realized quite how lucky I was to have that until it was gone. He died a few years ago.
+
+<img src="{{site.baseurl}}/images/jared_batchelor.jpg" class="img-fluid">
 
 Since childhood, Jared's fondest dream was to write novels. Unfortunately, like too many aspiring writers, he wrote a thousand stories that would never see the light of day because he gave up on them before they had a chance to develop into anything at all. He did, however, write one "complete" rough draft over the course of several years. We (his family and friends) had all heard about, but had never seen it. It was only after his death that the manuscript surfaced.
 
@@ -25,4 +25,3 @@ Re-writing the _Hall of Mages_ has been a rewarding experience. I have felt clos
 
 I think Jared would be happy with the product we are turning out, and I hope you will enjoy it as well. 
 
-<img src="{{site.baseurl}}/images/jared_batchelor.jpg" class="img-fluid">
