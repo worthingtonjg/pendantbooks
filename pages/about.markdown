@@ -22,7 +22,7 @@ A: For questions or comments about a product, please email support@pendantbooks.
 
 ##Q: I am part of a beta-reading group and wish to leave feedback for a book.
 
-A: If you are part of a reading group, you should have recieved an email with a link to the feedback site. If you have not received that email, please check your junk mail or spam folder for an email from Tom Whitefield. If you have checked these folders and are still unable to locate the email or you have deleted it, please add Tom Whitefield and pendantbooks.com to your safe senders list. Then email us at support@pendantbooks.com. 
+A: Beta-readers, you should have recieved an email with a link to the feedback site. If you have not received that email, please check your junk mail or spam folder for an email from Tom Whitefield. If you have checked these folders and are still unable to locate the email or you have deleted it, please add Tom Whitefield and pendantbooks.com to your safe senders list. Then email us at support@pendantbooks.com. 
 
 A: Yes. Please see James Batchelor's blog post regarding this here.
 
