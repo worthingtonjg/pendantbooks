@@ -7,7 +7,8 @@ sort: 5
 
 ## Jared Batchelor
 
-(written by James Batchelor)
+(Contributed by James Batchelor)
+
 Jared is my brother. He is three years my senior and the only one in my family that shares my passion for writing. He is the one sibling with whom I could commiserate over the frustration, discouragement and eventual triumph of a project. The others are always very good to listen, but Jared truly understood. I never realized quite how lucky I was to have that until it was gone. He died a few years ago.
 
 Since childhood, Jared's fondest dream was to write novels. Unfortunately, like too many aspiring writers, he wrote a thousand stories that would never see the light of day because he gave up on them before they had a chance to develop into anything at all. He did, however, write one "complete" rough draft over the course of several years. We (his family and friends) had all heard about, but had never seen it. It was only after his death that the manuscript surfaced.
@@ -18,7 +19,7 @@ Unfortunately, as I began reading the draft of _Hall of Mages_, I quickly realiz
 
 Nevertheless, there was a lot to work with. Jared had a vivid imagination. He had a talent for creating wonderfully imaginative characters, a unique magic system, and a world that gave me a great framework in which to work. I did manage to preserve more or less his exact verbiage in several places throughout the story, and more importantly, the world, characters, and essential storyline are all his. I could not have created this world as he did, so this story truly was co-authored by him.
 
-Re-writing the Hall of Mages has been a rewarding experience. I have felt close to my brother again while working on his book. Reading his writing and working so many hours in his world and with the characters that he created, I have found myself on more than one occasion thinking, "Oh, I need to ask Jared about this," Or, "I should tell him that," just as if he were still here and we were actively collaberating on this project. These are only fleeting moments, but I value them all the same.
+Re-writing the _Hall of Mages_ has been a rewarding experience. I have felt close to my brother again while working on his book. Reading his writing and working so many hours in his world and with the characters that he created, I have found myself on more than one occasion thinking, "Oh, I need to ask Jared about this," Or, "I should tell him that," just as if he were still here and we were actively collaberating on this project. These are only fleeting moments, but I value them all the same.
 
 I think Jared would be happy with the product we are turning out, and I hope you will enjoy it as well. 
 
