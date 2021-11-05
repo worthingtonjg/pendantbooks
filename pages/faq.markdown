@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Faq
 permalink: /faq/
 sort: 40
 topmenu: true
