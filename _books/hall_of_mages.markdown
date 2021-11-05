@@ -2,6 +2,7 @@
 layout: book
 title: Hall of Mages
 author: James Batchelor
+authorLink: /author/james_batchelor
 bookSort: 5
 image: /images/hom_cover.jpg
 sectionBanner1: Coming 
