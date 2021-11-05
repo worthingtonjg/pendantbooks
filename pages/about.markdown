@@ -3,6 +3,7 @@ layout: default
 title: About
 permalink: /about/
 sort: 20
+topmenu: true
 ---
 
 
