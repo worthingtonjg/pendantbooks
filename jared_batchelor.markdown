@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jared Batchelor
-permalink: /Authors/Jared_Batchelor/
+permalink: /authors/jared_batchelor/
 sort: 5
 topmenu: false
 ---
