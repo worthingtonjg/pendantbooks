@@ -7,6 +7,6 @@ topmenu: false
 ---
 
 
-## FAQ
+## Authors
 
-FAQ goes here
+Authors go here
