@@ -1,7 +1,7 @@
 ---
 layout: default
 title: James Batchelor
-permalink: /James_Batchelor/
+permalink: /Authors/James_Batchelor/
 sort: 4
 topmenu: false
 ---
