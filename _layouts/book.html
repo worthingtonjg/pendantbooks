@@ -7,7 +7,10 @@
     <br/><i>{{page.subtitle}}</i>
     {% endif %}
     {%if page.author%}
-    <br/><i>by {{page.author}}</i>
+    <br/>by
+    {% for auth in page.author %}
+    <i>{{page.author}}</i> and
+    {% endfor %}
     {%endif%}
 </div>
 {% if page.banner %}
