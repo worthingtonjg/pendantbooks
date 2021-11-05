@@ -11,7 +11,7 @@ topmenu: true
 {%- for post in sortedBooks -%}
     <div style="margin-bottom:50px">
         {% assign mod = forloop.index | modulo:2 %}
-        {% if hideShop %}
+        {% if post.hideShop == true %}
         {% else %}
         {% if mod > 0 %}
             <div class="row">
