@@ -3,6 +3,7 @@ layout: default
 title: Jared Batchelor
 permalink: /Jared_Batchelor/
 sort: 5
+topmenu: false
 ---
 
 ## Jared Batchelor
