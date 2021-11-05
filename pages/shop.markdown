@@ -8,7 +8,7 @@ topmenu: true
 
 {% assign sortedBooks = site.books | sort : 'bookSort' %}
 
-{% assign i = 1 %}
+{% assign i = 0 %}
 {%- for post in sortedBooks -%}
     <div style="margin-bottom:50px">
         {% if post.hideShop == true %}
