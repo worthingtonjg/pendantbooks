@@ -35,9 +35,11 @@
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     {% assign sorted = site.pages | sort: 'sort' %}
                     {%- for page in sorted -%}
+                    {% if page.topmenu %}
                         <li class="nav-item">
                             <a class="nav-link" href="{{site.baseurl}}{{page.url}}">{{page.title}}</a>
                         </li>
+                    {% endif %}
                     {%- endfor -%}                    
               </div>
             </div>
