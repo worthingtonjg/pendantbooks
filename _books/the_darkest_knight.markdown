@@ -2,8 +2,9 @@
 layout: book
 title: The Darkest Knight 
 subtitle: The Crusades Series - Book 3
-author: James Batchelor
-authorLink: /author/james_batchelor
+author: 
+  - name: James Batchelor
+    link: /author/james_batchelor
 bookSort: 1
 image: /images/darkestnight.png
 redBanner: The third book in James Batchelor's Crusades Series has finally arrived!
