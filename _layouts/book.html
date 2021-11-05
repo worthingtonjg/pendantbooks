@@ -10,7 +10,7 @@
     <br/>by
     {% for auth in page.author %}
     <i>{{auth}}</i> 
-    {% if forloop.length > 1 %}
+    {% if forloop.rindex > 0 %}
     and
     {% endif %}
     {% endfor %}
