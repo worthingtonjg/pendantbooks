@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  MyWritingProcess
+hashtag: true
 ---
 I am posting today as a participant in an author’s blog-hop, wherein a bunch of different authors answer four of the most commonly asked questions that we authors hear. My thanks to Dave Butler for involving me in this. Dave writes speculative fiction. I just read one of Dave’s books, Crecheling, this last weekend and had a hard time putting it down, so take a look, or find out more about Dave on his blog here, or on twitter @davidjohnbutler. Now, onto the bloghop’s standard introductory paragraph:
 
