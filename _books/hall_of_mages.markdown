@@ -3,9 +3,9 @@ layout: book
 title: Hall of Mages
 author: 
   - name: Jared Batchelor
-    link: /author/jared_batchelor
+    link: /authors/jared_batchelor
   - name: James Batchelor
-    link: /author/james_batchelor
+    link: /authors/james_batchelor
 bookSort: 5
 image: /images/hom_cover.jpg
 sectionBanner1: Coming 
