@@ -13,6 +13,20 @@ topmenu: true
     <div style="margin-bottom:50px">
         {% if post.hideShop == true %}
         {% else %}
+        {% if post.sectionBanner1 %}
+        <div class="row">
+            <div class="sectionBanner1">
+                {{post.sectionBanner1}}
+            </div>
+        </div>
+        {% endif %}   
+        {% if post.sectionBanner2 %}
+        <div class="row">
+            <div class="sectionBanner2">
+                {{post.sectionBanner2}}
+            </div>
+        </div>
+        {% endif %}       
         {% assign i = i | plus:1 %}
         {% assign mod = i | modulo:2 %}
         {% if mod > 0 %}
