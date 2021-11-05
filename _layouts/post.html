@@ -16,13 +16,13 @@
 <div class="previous-next-post-links">
     <div>
         {% if page.previous != nil %}
-            <a class="arrow arrow__left" href="{{ site.baseurl }}{{ page.previous.url }}"><--Prev ({{ page.previous.title }})</a>
+            <a class="arrow arrow__left" href="{{ site.baseurl }}{{ page.previous.url }}"><i class="fa fa-chevron-left"></i> ({{ page.previous.title }})</a>
         {% endif %}
     </div>
 
-    <div style="margin-left: auto; margin-right: 0;">
+    <div style="float:right">
         {% if page.next != nil %}
-            <a class="arrow arrow__right" href="{{ site.baseurl }}{{ page.next.url }}">Next ({{ page.next.title }}) --></a>
+            <a class="arrow arrow__right" href="{{ site.baseurl }}{{ page.next.url }}">({{ page.next.title }}) <i class="fa fa-chevron-right"></i></a>
         {% endif %}
     </div>
 </div>
