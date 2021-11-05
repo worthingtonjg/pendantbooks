@@ -8,11 +8,13 @@ topmenu: true
 
 {% assign sortedBooks = site.books | sort : 'bookSort' %}
 
+{% assign i = 1 %}
 {%- for post in sortedBooks -%}
     <div style="margin-bottom:50px">
         {% if post.hideShop == true %}
         {% else %}
-        {% assign mod = forloop.index | modulo:2 %}
+        {% assign i = i | plus:1 %}
+        {% assign mod = i | modulo:2 %}
         {% if mod > 0 %}
             <div class="row">
                 <div class="col" data-aos="fade-right">
