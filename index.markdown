@@ -2,6 +2,7 @@
 layout: default
 title: Home
 sort: 0
+topmenu: true
 ---
 {% assign sortedBooks = site.books | sort : 'bookSort' %}
 
