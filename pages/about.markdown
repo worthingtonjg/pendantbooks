@@ -2,7 +2,7 @@
 layout: default
 title: About
 permalink: /about/
-sort: 1
+sort: 20
 ---
 
 
