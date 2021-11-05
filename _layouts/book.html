@@ -9,7 +9,7 @@
     {% if page.author %}
     <br/>by
     {% for auth in page.author %}
-    <a href="{{auth.link}}"><i>{{auth.name}}</i></a>
+    <a href="{{site.baseurl}}/{{auth.link}}"><i>{{auth.name}}</i></a>
     {% if forloop.length > 1 and forloop.index < forloop.length %}
     and
     {% endif %}
