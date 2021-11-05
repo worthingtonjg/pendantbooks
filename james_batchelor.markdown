@@ -3,6 +3,7 @@ layout: default
 title: James Batchelor
 permalink: /James_Batchelor/
 sort: 4
+topmenu: false
 ---
 
 ## James Batchelor
