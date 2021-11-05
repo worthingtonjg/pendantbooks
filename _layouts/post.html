@@ -13,4 +13,18 @@
 </div>
 <!-- End Content-->
 
+<div class="previous-next-post-links">
+    <div>
+        {% if page.previous != nil %}
+            <a class="arrow arrow__left" href="{{ site.baseurl }}{{ page.previous.url }}">{{ page.previous.title }}</a>
+        {% endif %}
+    </div>
+
+    <div>
+        {% if page.next != nil %}
+            <a class="arrow arrow__right" href="{{ site.baseurl }}{{ page.next.url }}">{{ page.next.title }}</a>
+        {% endif %}
+    </div>
+</div>
+
 {% include footer.html %}
