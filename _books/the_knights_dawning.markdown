@@ -3,6 +3,7 @@ layout: book
 title: The Knights Dawning
 subtitle: The Crusades Series - Book 1
 author: James Batchelor
+authorLink: /author/james_batchelor
 bookSort: 4
 image: /images/knightsdawning.png
 sectionBanner1: Get
