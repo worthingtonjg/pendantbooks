@@ -5,6 +5,8 @@ title:  Why did I (re)edit The Knights Dawning?
 
 After much deliberation, my publisher, my editor, and I decided that we needed to revise The Knights Dawning (“TKD”) and give it the thorough editing that it never got the first time around. Below I have endeavored to answer a few of the most common questions that I have been asked regarding the changes:
 
+<!--more-->
+
 1. [Why did you re-edit The Knights Dawning?](#q1)
 2. [So, what has changed?](#q2)
 3. [What if I already liked TKD the way it was?](#q3)
@@ -12,8 +14,6 @@ After much deliberation, my publisher, my editor, and I decided that we needed t
 5. [If I have already bought an old version do I have to buy the new version again?](#q5)
 6. [How do I know if I have the latest version?](#q6)
 7. [Will a new print version be released?](#q7)
-
-<!--more-->
 
 **<a name="q1">Q:Why did you re-edit The Knights Dawning?</a>**
 
