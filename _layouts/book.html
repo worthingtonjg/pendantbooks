@@ -6,10 +6,13 @@
     {% if page.subtitle %}
     <br/><i>{{page.subtitle}}</i>
     {% endif %}
-    {%if page.author%}
+    {% if page.author %}
     <br/>by
     {% for auth in page.author %}
-    <i>{{page.author}}</i> and
+    <i>{{auth}}</i> 
+    {% if forloop.length > 1 %}
+    and
+    {% endif %}
     {% endfor %}
     {%endif%}
 </div>
