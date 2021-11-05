@@ -5,7 +5,6 @@ subtitle: The Crusades Series - Book 1
 author: 
   - name: James Batchelor
     link: /author/james_batchelor
-authorLink: /author/james_batchelor
 bookSort: 4
 image: /images/knightsdawning.png
 sectionBanner1: Get
