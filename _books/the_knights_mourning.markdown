@@ -4,7 +4,7 @@ title: The Knights Mourning
 subtitle: The Crusades Series - Book 2
 author: 
   - name: James Batchelor
-    link: /author/james_batchelor
+    link: /authors/james_batchelor
 bookSort: 3
 image: /images/knightsmorning.png
 sectionBanner1: Get
