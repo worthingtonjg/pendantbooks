@@ -1,13 +1,11 @@
 ---
 layout: book
-title: Why the Wait?
+title: Red Flags For Big Publishing Houses
 bookSort: 2
 image: /images/other_stories.jpg
 sectionBanner1: Other
 sectionBanner2: Stories
-blackBanner: Read the story behind The Knights Mourning, why it took so long, and some other commonly asked questions from James Batchelor himself.
+blackBanner: Read James Batchelor's post on what publishers look for in manuscripts.
 hideShop: true
 ---
-The Dawnings are at war! After narrowly surviving a surprise attack on their own soil, the family is passionately divided over how to use their failing resources to respond to the Braddock army at their gates, the escalating tension with the crown, and an unknown enemy in their midst. The mounting danger to the family and their way of life exposes the deep rifts among the brothers, and drives them even further apart as the struggle for control of Dawning Court rages ever hotter. 
-
-Building on the momentum of The Knights Dawning, The Knights Mourning watches the Dawnings continue to spin out of control as each brother is forced to confront his demons and, one by one, each must choose between his own self-preservation and that of the family and realm.
+The world of Publishing has changed dramatically over the last decade. There is no doubt about it. We live in a time when anyone, regardless of subject matter or talent, can publish their work to the world with the investment of nothing more than time. And though there are often many reasons–and even benefits–to going the self-published route, let’s face it, the big publishing houses still lend credibility to any novel, especially a new novel from a relatively unknown author. Though the big houses may not be as important as they once were, a reader knows that any book that comes from a publishing house has been professionally edited, proofread, and reviewed by any number of industry professionals. And while it may be argued that this can have a watering-down effect as publishers try to force novels into rigidly formulaic parameters divided along demographic lines, the level of investment and professionalism that comes from the big boys is something that self-published authors very often do not have the resources or understanding to give to his or her own work.
