@@ -4,7 +4,7 @@ title:  Recapturing the Magic
 ---
 As I announced some months ago via twitter and facebook, I have finished the rough draft of Hall of Mages. Now some of you are starting to notice that you have not heard any updates since then. That is mostly because there are no updates. But let me explain why.
 
-When _Hall of Mages_ fell into my lap (if you are unfamiliar with how that came to be you can read about it [here](http://www.pendantbooks.com/authors/jared_batchelor/)), it was not complete and needed a lot of work. Despite that, my brother's gift for capturing the magic of his world, which is what makes fantasy so much fun to read, came through very strong. 
+When _Hall of Mages_ fell into my lap (if you are unfamiliar with how that came to be you can read about it <a href='{{site.baseurl}}/authors/jared_batchelor'>here</a>, it was not complete and needed a lot of work. Despite that, my brother's gift for capturing the magic of his world, which is what makes fantasy so much fun to read, came through very strong. 
 <!--more-->
 
 So, I took what he had begun and added back stories to characters, a more thorough history of the world and magic system, and I increased the scope of the drama exponentially. But the rough draft that came out the other side had lost a lot of that magic. The wonder and excitement was gone, and I could not figure out why.
