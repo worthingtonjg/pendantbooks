@@ -2,7 +2,7 @@
 layout: post
 title:  Recapturing the Magic
 ---
-As I announced some months ago via twitter and facebook, I have finished the rough draft of Hall of Mages. Now some of you are starting to notice that you have not heard any updates since then. That is mostly because there are no updates. But let me explain why.
+As I announced some months ago via twitter and facebook, I have finished the rough draft of _Hall of Mages_. Now some of you are starting to notice that you have not heard any updates since then. That is mostly because there are no updates. But let me explain why.
 
 When _Hall of Mages_ fell into my lap (if you are unfamiliar with how that came to be you can read about it <a href='{{site.baseurl}}/authors/jared_batchelor'>here</a>), it was not complete and needed a lot of work. Despite that, my brother's gift for capturing the magic of his world, which is what makes fantasy so much fun to read, came through very strong. 
 <!--more-->
@@ -15,4 +15,4 @@ Out of this diverse group, as you might imagine, I identified few common threads
 
 That was the key and it was so simple. What made those other books fun to read is that their authors had fun writing them. That was what was missing from my draft of Hall of Mages. While it is a labor of love, and something I truly want to do, it has been a labor. I did everything technically correct, added everything I thought should be there, but I never got down in it enough to just enjoy the journey. I was never immersed in the world enough to have fun walking and exploring with the characters, and that is where my draft fell down.
 
-It has only been in the last few days that I have really honed in on this fact, and regrettably, I am seriously pushing my deadline for book 3 of _The Crusades Series_, so it will be some time before I can bring this to bear on Hall. However, it has already helped make _The Knights Reborn_ a better book. Working under a deadline, does have a way of wringing the fun out of a project, but this helped remind me of what was important.
+It has only been in the last few days that I have really honed in on this fact, and regrettably, I am seriously pushing my deadline for <a href='{{site.baseurl}}/authors/shop'>book 3 of _The Crusades Series_</a>, so it will be some time before I can bring this to bear on Hall. However, it has already helped make _The Darkest Knight_ a better book. Working under a deadline, does have a way of wringing the fun out of a project, but this helped remind me of what was important.
