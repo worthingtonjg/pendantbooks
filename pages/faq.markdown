@@ -20,7 +20,7 @@ A: For questions or comments about a product, please email <a href="mailto:suppo
 
 A: Beta-readers should have recieved an email with a link to the feedback site. If you have not received that email, please check your junk mail or spam folder for an email from Tom Whitefield. If you have checked these folders and are still unable to locate the email or you have deleted it, please add Tom Whitefield and pendantbooks.com to your safe senders list. Then email us at <a href="mailto:support@pendantbooks.com">support@pendantbooks.com</a>.
 
-**Q: Is there more than one edition of _The Knights Dawning__?**
+**Q: Is there more than one edition of The Knights Dawning?**
 
 A: Yes. The first edition was released in 2011 with a significant revision made in 2013.
 
