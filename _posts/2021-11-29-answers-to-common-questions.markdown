@@ -18,7 +18,7 @@ When people learn that I am a writer a number of questions usually follow. "What
 
 A: This is a bit of a broad question as it might pertain to many aspects of writing, publishing, and/or marketing. But I've found that for most people, the heart of this question is usually this: "I'm trying to/want to/in the process of writing the first draft of my first book, but I'm having a hard time finishing it. What can I do about that?"
  
-My answer to this is always the same: **Push through that first draft and get it done!** Until you have finished writing that last page, do not go back and revise anything, do not restart your work because you “think you can do it better,” **push through and finish it.**
+My answer to this is always the same: **Push through that first draft and get it done!** Until you have finished writing that last page, do not go back and revise anything. Do not restart your work because you “think you can do it better.” **Push through and finish it!**
  
 There are a million would-be authors out there who will never complete that first draft because they all fall into the same trap: They start out strong, write the sections they are excited about, but then start to lose steam as they are building the nuts and bolts of the story. They eventually get stuck, get frustrated, and decide to start over, thinking that they now have a better approach.
  
