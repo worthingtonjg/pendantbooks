@@ -18,7 +18,7 @@ When people learn that I am a writer a number of questions usually follow. "What
 
 A: This is a bit of a broad question as it might pertain to many aspects of writing, publishing, and/or marketing. But I've found that for most people, the heart of this question is usually this: "I'm trying to/want to/in the process of writing the first draft of my first book, but I'm having a hard time finishing it. What can I do about that?"
  
-My answer to this is always the same: Push through that first draft and get it done! Until you have finished writing that last page, do not go back and revise anything, do not restart your work because you “think you can do it better,” push through and finish it.
+My answer to this is always the same: **Push through that first draft and get it done!** Until you have finished writing that last page, do not go back and revise anything, do not restart your work because you “think you can do it better,” **push through and finish it.**
  
 There are a million would-be authors out there who will never complete that first draft because they all fall into the same trap: They start out strong, write the sections they are excited about, but then start to lose steam as they are building the nuts and bolts of the story. They eventually get stuck, get frustrated, and decide to start over, thinking that they now have a better approach.
  
@@ -35,12 +35,12 @@ Before my first book was published, I too worried over this question. I would se
  
 I say that because every single one of those "writers" knew exactly what the people were wanting to know, and yet answered in a way that was of absolutely no use to a novice. 
  
-So, here's the answer you are looking for: A standard 6" x 9" paperback book with a standard font size and margins will translate to roughly 350 words per page. For example, my 3rd book, The Darkest Knight, was just over 153,000 words. That translated to a 443 page book (I'm subtracting 5 pages for title, verso, and dedication pages). 
+So, here's the answer you are looking for: A standard 6" x 9" paperback book with a standard font size and margins will translate to roughly 350 words per page. For example, my 3rd book, _The Darkest Knight,_ was just over 153,000 words. That translated to a 443 page book (I'm subtracting 5 pages for title, verso, and dedication pages). 
 
 
 **<a name="q3">Q:What's the minimum size my book can be?</a>**
 
-A: Unfortunately there is no easy answer here. Your book might be 30,000 words or it might be 300,000 words. There is no requirement, but you can get some idea of the general size expected for a given genre by looking at other books in the genre in which you are writing. Nobody wants to read a 300,000 word coffee table book like Chicken Soup for the Soul. Conversely, a 30,000 word fantasy book would likely not give you the space required for a fully fleshed out world, characters, and magic system to say nothing of the story itself. 
+A: Unfortunately there is no easy answer here. Your book might be 30,000 words or it might be 300,000 words. There is no requirement, but you can get some idea of the general size expected for a given genre by looking at other books in the genre in which you are writing. Nobody wants to read a 300,000 word coffee table book like _Chicken Soup for the Soul._ Conversely, a 30,000 word fantasy book would likely not give you the space required for a fully fleshed out world, characters, and magic system to say nothing of the story itself. 
  
 But one word of caution here: if it is your first book, and you are planning on submitting to a traditional publisher, longer works are not your friend (see my previous post, Red Flags for Publishing Houses for more detail)
 
