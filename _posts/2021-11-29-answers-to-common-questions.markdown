@@ -35,14 +35,14 @@ A: This is a common question for first-time writers, because you don't have any 
  
 Before my first book was published, I too worried over this question. I would search the internet and generally find snooty, useless answers that amounted to something like this "_real_ writers don't pay attention to page-count because that will change with every printing depending on the typesetting and size of the book." And while I have since learned that is essentially true, it was of no value to me at all as an aspiring novelist.  
  
-So here's the answer you are looking for: A standard 6" x 9" paperback book with a standard font size and margins will translate to roughly 350 words per page. For example, my 3rd book, _The Darkest Knight,_ was just over 153,000 words. That translated to a 443 page book (I'm subtracting 5 pages for title, verso, and dedication pages). 
+So here's the answer you are looking for: A standard 6" x 9" paperback book with a standard font size and margins will translate to roughly 350 words per page. For example, my 3rd book, <a href='{{site.url}}/shop'>_The Darkest Knight,_</a> was just over 153,000 words. That translated to a 443 page book (I'm subtracting 5 pages for title, verso, and dedication pages). 
 
 
 **<a name="q3">Q:What's the minimum size my book can be?</a>**
 
 A: Unfortunately there is no easy answer here. Your book might be 30,000 words or it might be 300,000 words. There is no requirement, but you can get some idea of the general size expected for a given genre by looking at other books in the genre in which you are writing. Nobody wants to read a 300,000 word coffee table book like _Chicken Soup for the Soul._ Conversely, a 30,000 word fantasy book would likely not give you the space required for a fully fleshed out world, characters, and magic system to say nothing of the story itself. 
  
-But one word of caution here: if it is your first book, and you are planning on submitting to a traditional publisher, longer works are not your friend (see my previous post, Red Flags for Publishing Houses for more detail)
+But one word of caution here: if it is your first book, and you are planning on submitting to a traditional publisher, longer works are not your friend (see my previous post, <a href='{{site.url}}/2014/11/28/red-flags-for-big-publishing-houses.html'>Red Flags for Publishing Houses</a> for more detail)
 
 **<a name="q4">How do I get a book published?</a>**
 
