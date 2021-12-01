@@ -40,7 +40,7 @@ So here's the answer you are looking for: A standard 6" x 9" paperback book with
 
 **<a name="q3">Q:What's the minimum size my book can be?</a>**
 
-A: Unfortunately there is no easy answer here. Your book might be 30,000 words or it might be 300,000 words. There is no requirement, but you can get some idea of the general size expected for a given genre by looking at other books in the genre in which you are writing. Nobody wants to read a 300,000 word coffee table book like _Chicken Soup for the Soul._ Conversely, a 30,000 word fantasy book would likely not give you the space required for a fully fleshed out world, characters, and magic system to say nothing of the story itself. 
+A: Unfortunately there is no easy answer here. Your book might be 30,000 words or it might be 300,000 words. There is no requirement. But you can get some idea of the general size expected for a given genre by looking at other books in the genre in which you are writing. Nobody wants to read a 300,000 word coffee table book like _Chicken Soup for the Soul._ Conversely, a 30,000 word fantasy book would likely not give you the space required for a fully fleshed out world, characters, and magic system to say nothing of the story itself. 
  
 But one word of caution here: if it is your first book, and you are planning on submitting to a traditional publisher, longer works are not your friend (see my previous post, <a href='{{site.url}}/2014/11/28/red-flags-for-big-publishing-houses.html'>Red Flags for Publishing Houses</a> for more detail)
 
