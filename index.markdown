@@ -27,7 +27,7 @@ topmenu: true
             <div class="redBanner">
                 {{post.redBanner}}
                 {% if post.redBannerLink %}
-                <a href="{{post.redBannerLink}}">Click here</a>
+                <a href="{{post.redBannerLink}}" target="_blank">Click here</a>
                 {% endif %}
             </div>
         </div>
