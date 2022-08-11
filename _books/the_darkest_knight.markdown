@@ -21,6 +21,8 @@ Now, sealed in the castle with only a handful of trained soldiers, those who are
 
 <!--more-->
 
+Audio Versions: [Audible](https://www.audible.com/pd/The-Knights-Mourning-Audiobook/B0B99L836L?qid=1660250508&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=W4Y85QDM0AWT04A5XDKK "Buy from Audible") {;target="_blank"} (Also available on iTunes)
+
 [Kindle: $9.99](https://www.amazon.com/Darkest-Knight-Crusades-Book-ebook/dp/B091HXQWCN/ref=sr_1_1?dchild=1&keywords=the+darkest+knight+by+james+batchelor&qid=1625255949&sr=8-1 "Buy from Amazon"){:target="_blank"}
 
 [Nook: $9:99](https://www.barnesandnoble.com/w/the-darkest-knight-james-batchelor/1139149449?ean=2940162222514 "Buy from Barnes and Noble"){:target="_blank"}
