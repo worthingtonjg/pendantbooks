@@ -7,7 +7,8 @@ author:
     link: /authors/james_batchelor
 bookSort: 1
 image: /images/darkestnight.png
-redBanner: The third book in James Batchelor's Crusades Series has finally arrived!
+redBanner: The audio version of The Knights Dawning has finally arrived 
+redBannerLink: https://www.audible.com/pd/The-Knights-Dawning-Audiobook/B0B788KXB6?ref=web_search_eac_asin_1&qid=VByPhjqNuo&sr=1-1
 sectionBanner: The Latest
 ---
 The long awaited to follow up to _The Knights Mourning_ is finally here!
