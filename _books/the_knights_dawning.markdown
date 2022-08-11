@@ -19,7 +19,7 @@ The first book in the Crusades series, The Knights Dawning, sets the stage for a
 
 [Audio Version: Audible](https://www.audible.com/pd/The-Knights-Dawning-Audiobook/B0B788KXB6?ref=web_search_eac_asin_1&qid=VByPhjqNuo&sr=1-1 "Buy from Audible"){:target="_blank"}
 
-[iTunes](https://books.apple.com/us/audiobook/the-knights-dawning-the-crusades-series-book-1-unabridged/id1636570240 "Buy from Apple") {:target="_blank"} 
+[iTunes](https://books.apple.com/us/audiobook/the-knights-dawning-the-crusades-series-book-1-unabridged/id1636570240 "Buy from Apple"){:target="_blank"} 
 
 [Kindle: $6.99](https://www.amazon.com/Knights-Dawning-Crusades-Book-ebook/dp/B0066CBG9A/ref=sr_1_1?dchild=1&keywords=the+knights+dawning+by+James+batelor&qid=1625264959&sr=8-1-spell "Buy from Amazon"){:target="_blank"}
 
