@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.pendantbooks.com/blog/">
-	<channel>
+<rss version="2.0" xmlns:atom="http://www.www.w3.org/2005/Atom">
+	<channel> 
+	<atom:link href="http://pendantbooks.com/blog/" rel="self" type="application/rss+xml" />
 	<title>James Batchelor Blog</title>
 	<link>http://www.pendantbooks.com/blog/</link>
 	<description>Blog</description>
@@ -16,8 +17,7 @@
 		<title>Answers to Commonly Asked Questions</title>
 		<pubDate>Mon, 29 Nov 2021 14:33:00 MST</pubDate>
 		<link>http://www.pendantbooks.com/2021/11/29/answers-to-common-questions.html</link>
-		<description><![CDATA[Visit this <a href=“www.pendantbooks.com”>link </a> to my blog!]]></description>
-		
+		<description><![CDATA[Visit this <a href=“www.pendantbooks.com”>link </a> to my blog!]]></description>	
 	</item>
 	<item>
 		<title>Red Flags for Big Publishing Houses</title>
@@ -33,6 +33,5 @@
 		<description><![CDATA[Visit this <a href=“www.pendantbooks.com”>link </a> to my blog!]]></description>
 		
 	</item>
-	<atom:link href="http://pendantbooks.com/blog/" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>
