@@ -2,7 +2,7 @@
 layout: post
 title:  Keeping My Promise
 ---
-As promised in my previous post from less than six months ago, I have an update on the projects currently underway.
+As promised in my previous post from less than seven months ago, I have an update on the projects currently underway.
 <!--more-->
 
 **Audiobooks:** If you have not heard, the Audio versions of <a href='{{site.url}}/books/the_knights_dawning.html)'>_The Knights Dawning_</a> and <a href='{{site.url}}/books/the_knights_mourning.html)'>_The Knights Mourning_</a>) are now available on [Audible](https://www.audible.com/pd/The-Knights-Dawning-Audiobook/B0B788KXB6?ref=web_search_eac_asin_1&qid=VByPhjqNuo&sr=1-1 "Buy from Audible"){:target="_blank"} and [iTunes](https://books.apple.com/us/audiobook/the-knights-dawning-the-crusades-series-book-1-unabridged/id1636570240 "Buy from Apple"){:target="_blank"} . I have had more requests for audio versions of my books than all other requests combined, so I am very happy to be able to make this announcement.
