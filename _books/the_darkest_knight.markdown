@@ -11,7 +11,7 @@ redBanner: The audio version of The Knights Dawning has finally arrived
 redBannerLink: https://www.audible.com/pd/The-Knights-Dawning-Audiobook/B0B788KXB6?ref=web_search_eac_asin_1&qid=VByPhjqNuo&sr=1-1
 sectionBanner: The Latest
 ---
-The long awaited to follow up to _The Knights Mourning_ is finally here!
+The long awaited follow up to _The Knights Mourning_ is finally here!
 
 In book two of the Crusades Series, _The Knights Mourning_, The Dawnings were betrayed by one of their own. Ambushed on their own lands, the army was decimated by the combined might of a Saracen-Braddock force.
 
