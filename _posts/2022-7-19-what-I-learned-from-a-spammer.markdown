@@ -13,4 +13,4 @@ The challenge I have faced with posting regular updates, besides my natural recl
 
 That’s why I think a shorter format with posts of no more than a few hundred words would rein me in, require less time of both of us, and allow me to post updates more frequently without exposing you to my … er, let’s call it “genius”.
 
-Now let’s see here, my previous post was eight months ago. As such, I am committing to you here and now, that within 7 months, I will post a real update! (Queue dramatic sting).
+Now let’s see here, my previous post was seven months ago. As such, I am committing to you here and now, that within 7 months, I will post a real update! (Queue dramatic sting).
