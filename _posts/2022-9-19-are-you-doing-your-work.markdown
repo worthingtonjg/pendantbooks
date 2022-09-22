@@ -13,4 +13,4 @@ As I am well into middle-age now and can see the end of my life much clearer tha
 
 Granting that there are more important things in life than “my work”, however, does not mean that we will not be happier and more fulfilled by pursuing that thing in our hearts that we were meant to pursue. And I love the idea that my descendants will have a piece of me in the form of my writing long after I am gone in a way that they never will through what I do to make a living. They will know something of my character, values, and sense of humor the products of my work that I leave behind.
 
-So get off the coach and get to it!
+So get off the couch and get to it!
