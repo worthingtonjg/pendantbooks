@@ -5,7 +5,7 @@ bookSort: 2
 image: /images/other_stories.jpg
 sectionBanner1: Other
 sectionBanner2: Stories
-blackBanner: Read James Batchelor's post on what publishers look for in manuscripts.
+blackBanner: Read the latest from James Batchelor and get updates on his latest projects.
 hideShop: true
 ---
 I have been thinking a lot lately about what our “real” work is. Do you know what yours is? It’s not necessarily your job. In fact, your job might be the thing you have chosen to do to distract yourself from focusing on your real work.
