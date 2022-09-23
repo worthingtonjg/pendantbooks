@@ -7,8 +7,8 @@ author:
     link: /authors/james_batchelor
 bookSort: 1
 image: /images/darkestnight.png
-redBanner: The audio version of The Knights Dawning has finally arrived 
-redBannerLink: https://www.audible.com/pd/The-Knights-Dawning-Audiobook/B0B788KXB6?ref=web_search_eac_asin_1&qid=VByPhjqNuo&sr=1-1
+redBanner: The audio version of The Knights Dawning has finally arrived!
+redBannerLink: https://www.audible.com/pd/B0B788KXB6/?source_code=AUDFPWS0223189MWT-BK-ACX0-316433&ref=acx_bty_BK_ACX0_316433_rh_us
 sectionBanner: The Latest
 ---
 The long awaited follow up to _The Knights Mourning_ is finally here!
