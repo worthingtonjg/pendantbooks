@@ -14,7 +14,7 @@ The Dawnings are at war! After narrowly surviving a surprise attack on their own
 <!--more-->
 Building on the momentum of The Knights Dawning, The Knights Mourning watches the Dawnings continue to spin out of control as each brother is forced to confront his demons and, one by one, each must choose between his own self-preservation and that of the family and realm.
 
-Audio Versions: [Audible](https://www.audible.com/pd/The-Knights-Mourning-Audiobook/B0B99L836L?qid=1660250508&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=W4Y85QDM0AWT04A5XDKK "Buy from Audible"){:target="_blank"} (Also available on iTunes)
+Audio Versions: [Audible](https://www.audible.com/pd/B0B99L836L/?source_code=AUDFPWS0223189MWT-BK-ACX0-318559&ref=acx_bty_BK_ACX0_318559_rh_us "Buy from Audible"){:target="_blank"} (Also available on iTunes)
 
 [Kindle: $4.99](https://www.amazon.com/Knights-Mourning-Crusades-Book-ebook-dp-B00D47C928/dp/B00D47C928/ref=mt_other?_encoding=UTF8&me=&qid= "Buy from Amazon"){:target="_blank"}
 
