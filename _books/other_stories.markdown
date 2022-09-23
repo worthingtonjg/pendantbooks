@@ -1,6 +1,6 @@
 ---
 layout: book
-title: Red Flags For Big Publishing Houses
+title: Are You Doing Your Work?
 bookSort: 2
 image: /images/other_stories.jpg
 sectionBanner1: Other
@@ -8,7 +8,9 @@ sectionBanner2: Stories
 blackBanner: Read James Batchelor's post on what publishers look for in manuscripts.
 hideShop: true
 ---
-The world of Publishing has changed dramatically over the last decade. There is no doubt about it. We live in a time when anyone, regardless of subject matter or talent, can publish their work to the world with the investment of nothing more than time. And though there are often many reasons–and even benefits–to going the self-published route, let’s face it, the big publishing houses still lend credibility to any novel. Especially a new novel from a relatively unknown author. Though the big houses may not be as important as they once were, a reader knows that any book that comes from a publishing house has been professionally edited, proofread, and reviewed by any number of industry professionals. And while it may be argued that this can have a watering-down effect as publishers try to force novels into rigidly formulaic parameters, the level of investment and professionalism that comes from the big boys is something that a self-published author very often do not have the resources or understanding to give to his or her own work.
+I have been thinking a lot lately about what our “real” work is. Do you know what yours is? It’s not necessarily your job. In fact, your job might be the thing you have chosen to do to distract yourself from focusing on your real work.
+
+Now do not misunderstand me, I’m not one of those who is going to tell you to chuck everything you have accomplished in your life and go live out your dream to be a painter in Costa Rica. Quite the opposite. While I believe that understanding what you were meant to do and fulfilling that work is key to living a productive, happy life, I do not believe it is the be-all end-all of our earthly existence.
 
 <a href='{{site.baseurl}}/2022/09/19/are-you-doing-your-work.html'>Read more</a>
 
