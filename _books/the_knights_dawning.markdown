@@ -17,7 +17,7 @@ blackBanner: See where it all began with the first book in the crusades series.
 
 The first book in the Crusades series, The Knights Dawning, sets the stage for a titanic struggle for survival that could consume a family, a people, and a kingdom. The epic battles and action-packed scenes are coupled with deep characters and complex relationships that give the story a depth beyond ordinary adventure novels. Join the Dawnings as they feud over power, love, jealousies, and old grudges that threaten to destroy the family from within at the moment they most need to stand united.
 
-[Audio Version: Audible](https://www.audible.com/pd/The-Knights-Dawning-Audiobook/B0B788KXB6?ref=web_search_eac_asin_1&qid=VByPhjqNuo&sr=1-1 "Buy from Audible"){:target="_blank"}
+[Audio Version: Audible](https://www.audible.com/pd/B0B788KXB6/?source_code=AUDFPWS0223189MWT-BK-ACX0-316433&ref=acx_bty_BK_ACX0_316433_rh_us "Buy from Audible"){:target="_blank"}
 
 [iTunes](https://books.apple.com/us/audiobook/the-knights-dawning-the-crusades-series-book-1-unabridged/id1636570240 "Buy from Apple"){:target="_blank"} 
 
