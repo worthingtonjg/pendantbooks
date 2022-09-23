@@ -10,5 +10,5 @@ hideShop: true
 ---
 The world of Publishing has changed dramatically over the last decade. There is no doubt about it. We live in a time when anyone, regardless of subject matter or talent, can publish their work to the world with the investment of nothing more than time. And though there are often many reasons–and even benefits–to going the self-published route, let’s face it, the big publishing houses still lend credibility to any novel. Especially a new novel from a relatively unknown author. Though the big houses may not be as important as they once were, a reader knows that any book that comes from a publishing house has been professionally edited, proofread, and reviewed by any number of industry professionals. And while it may be argued that this can have a watering-down effect as publishers try to force novels into rigidly formulaic parameters, the level of investment and professionalism that comes from the big boys is something that a self-published author very often do not have the resources or understanding to give to his or her own work.
 
-<a href='{{site.baseurl}}/2014/11/28/red-flags-for-big-publishing-houses.html'>Read more</a>
+<a href='{{site.baseurl}}/2022/09/19/are-you-doing-your-work.html'>Read more</a>
 
