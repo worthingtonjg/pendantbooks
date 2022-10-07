@@ -3,7 +3,9 @@ layout: post
 title:  You Will Do This!
 ---
 “That is a really tough industry to break into.” 
+
 “Well, what are you going to do as a backup?” 
+
 “Most writers never make it!”
 
 Sound familiar? From the first moment you summoned the courage to tell someone that you wanted to be a writer/artist/entrepreneur, you have been bombarded with cautionary, negative statements like this from well-meaning friends and family. This will typically be followed up with stories about how much rejection some famous author faced before finally have his or her first manuscript accepted. The unspoken message being that “if even JK Rowling barely made it, what chance do you have?”
