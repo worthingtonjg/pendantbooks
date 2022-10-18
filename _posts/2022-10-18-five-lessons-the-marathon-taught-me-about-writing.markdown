@@ -3,9 +3,9 @@ layout: post
 title:  5 Lessons the Marathon Taught Me About Writing
 ---
 When I was approaching my 40th birthday, rather than getting depressed and eating myself into a food coma on the couch; I decided to roll over the odometer by checking something off my bucket list. So, I signed up to run a marathon.
-<!--more-->
 
 Now just to set the stage here, I had no distance running experience. I was 20 pounds overweight, and I had just had my ACL replaced two months before deciding to do this. So, what could go wrong? But it was something I always wanted to do, and I liked that it would set a good example for my children to watch me set a huge goal and accomplish it.
+<!--more-->
 
 Fueled more by enthusiasm than common sense, I signed up for the race closest to my birthday and paid the money before I started to think about all those reasons this was a bad idea that I just mentioned in the previous paragraph. I then figured I better get some help from a professional. No, not psychiatric help, although as I write this, I see why your mind went there. Professional running help. Which means, of course, I did an internet search for marathon training plans and downloaded the first free one I came across. (It’s professional if it’s on the internet, right?)
 
